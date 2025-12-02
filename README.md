@@ -81,7 +81,7 @@ Key Jupyter notebooks:
 
 Lan Anh Do - [LinkedIn](https://www.linkedin.com/in/lananhnguyendo/)
 
-Project Link: [GitHub](https://github.com/UF-MLforAISystems-Fall24/project-2-undergraduate-laba-ehehe.git)
+Project Link: [GitHub](https://github.com/laba-ehehe/ship-detection)
 
 ## Acknowledgements
 
